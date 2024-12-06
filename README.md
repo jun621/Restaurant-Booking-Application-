@@ -8,6 +8,6 @@ Go to application.properties and change the following two lines to your own Data
 spring.datasource.url=jdbc:postgresql://localhost:5432/databasename
 spring.datasource.username=your_username
 
-import data dump restaurant_booking.zip into postgresql database 
+import data dump restaurant_booking.sql into postgresql database 
 
 
