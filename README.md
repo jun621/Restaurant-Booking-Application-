@@ -1,7 +1,7 @@
 ## Setup Manual
 There are 2 options to setup the project.
-1. unzip CSE412Project.zip into your IDE
-2. clone the repo 
+1. download and unzip CSE412Project.zip into your IDE
+2. git clone https://github.com/jun621/Restaurant-Booking-Application-.git
 
 ## Configuration setting 
 Go to application.properties and change the following two lines to your own Database name and username 
