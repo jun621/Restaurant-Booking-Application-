@@ -4,7 +4,7 @@ There are 2 options to setup the project.
 2. git clone https://github.com/jun621/Restaurant-Booking-Application-.git
 
 ## Configuration setting 
-Go to application.properties and change the following two lines to your own Database name and username 
+Go to application.properties and change the following two lines with your own Database name and username 
 spring.datasource.url=jdbc:postgresql://localhost:5432/databasename
 spring.datasource.username=your_username
 
